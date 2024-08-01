@@ -92,6 +92,7 @@ int main() {
                 "| |___|___|___| |___| |\n"
                 "|_____________________|" << endl;
         cout << "Select Operation:" << endl;
+        court << endl;
         cout << "1. Addition (+)" << endl;
         cout << "2. Subtraction (-)" << endl;
         cout << "3. Multiplication (*)" << endl;
